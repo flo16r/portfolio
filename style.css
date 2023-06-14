@@ -182,15 +182,14 @@ header {
   justify-content: space-between;
   align-items: center;
   background-color: rgba(36, 36, 36, 0.422);
-  padding: 0px 150px 0px 150px;
-  border-radius: 4px;
+  padding: 0px 100px 0px 100px;
+  border-radius: 5px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   font-size: 20px;
   font-weight: bold;
   text-transform: uppercase;
   letter-spacing: 2px;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
-
   top: 0;
   left: 0;
   right: 0;
@@ -224,14 +223,11 @@ footer {
   display: flex;
   justify-content: space-between;
   align-items: center;
-
+  border-radius: 5px;
   bottom: 0;
   left: 0;
   right: 0;
   z-index: 999;
-  padding: 10px;
   color: white;
   background-color: rgba(36, 36, 36, 0.422);
 }
-
-
